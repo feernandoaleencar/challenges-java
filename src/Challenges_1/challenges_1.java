@@ -1,3 +1,5 @@
+package Challenges_1;
+
 import java.util.Scanner;
 
 public class challenges_1 {
